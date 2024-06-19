@@ -2,7 +2,7 @@ import telebot
 from Reader import reader
 import random
 from bottons import BOTTONS
-token='6367663172:AAE9xRoQDm4VXlbCNEKaOxgROkLhvx73jFY'
+token=''
 bot = telebot.TeleBot(token)
 global score
 score = 0
